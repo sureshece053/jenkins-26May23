@@ -1,5 +1,8 @@
 <html>
 <body>
-<h2>Hello World Good morning to the every one..Hell world this a test message.....Hello Zeta....!</h2>
+<h2><head>
+<meta name="description" content="Free Web tutorials">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+</head></h2>
 </body>
 </html>
