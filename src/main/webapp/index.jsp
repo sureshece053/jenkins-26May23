@@ -1,2 +1,2 @@
-<img src="img_chania.jpg" alt="Flowers in Chania">
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 
